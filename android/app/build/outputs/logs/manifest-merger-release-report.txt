@@ -1,0 +1,950 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:28:4-61:19
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-28:19
+MERGED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-28:19
+MERGED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:razorpay_flutter] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\razorpay_flutter\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-10:19
+MERGED from [:razorpay_flutter] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\razorpay_flutter\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-10:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:41:5-64:19
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:41:5-64:19
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\25a8a9109aa3072267dbbf57afa01c36\transformed\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\25a8a9109aa3072267dbbf57afa01c36\transformed\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\226a9007de2b1349e2cab54dbd14ad0b\transformed\jetified-play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\226a9007de2b1349e2cab54dbd14ad0b\transformed\jetified-play-services-measurement-sdk-21.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\371c14aa920a8c676e4421195425d8ba\transformed\jetified-play-services-fido-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\371c14aa920a8c676e4421195425d8ba\transformed\jetified-play-services-fido-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\8e4207a609192a9024234dd8068c55e0\transformed\jetified-play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\8e4207a609192a9024234dd8068c55e0\transformed\jetified-play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\a44251de631e605548d6c39396d61cc3\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\a44251de631e605548d6c39396d61cc3\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\92d28d19e74f091cef5fb7cafef7789b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\92d28d19e74f091cef5fb7cafef7789b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\d6c91e3b5a99a1d78f895a4e281db8f2\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\d6c91e3b5a99a1d78f895a4e281db8f2\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\76e2d75fb632df5cd43dc610f13b267c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\76e2d75fb632df5cd43dc610f13b267c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\a9363052521cf15d9f30760b034fb3fe\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\a9363052521cf15d9f30760b034fb3fe\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\be4260fbf4d2247fc2a2082f8d15653f\transformed\jetified-play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\be4260fbf4d2247fc2a2082f8d15653f\transformed\jetified-play-services-measurement-base-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\indian 5\.gradle\caches\transforms-3\060d3ab0f219b7bdf3c6074aca40f9f2\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\indian 5\.gradle\caches\transforms-3\060d3ab0f219b7bdf3c6074aca40f9f2\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c352b41c714aa5c60de1bbcbd735235b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c352b41c714aa5c60de1bbcbd735235b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\indian 5\.gradle\caches\transforms-3\95068ff6e742302ba6093ec0b3c09fb0\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\indian 5\.gradle\caches\transforms-3\95068ff6e742302ba6093ec0b3c09fb0\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:31:12-55
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\indian 5\.gradle\caches\transforms-3\060d3ab0f219b7bdf3c6074aca40f9f2\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:29:9-40
+	android:icon
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:32:13-47
+	android:name
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:30:9-42
+manifest
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-50:12
+MERGED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-30:12
+MERGED from [:flutter_share] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_share\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
+MERGED from [:path_provider_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:smart_auth] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\smart_auth\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_file_downloader] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_file_downloader\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:wakelock] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\wakelock\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\webview_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_localization] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_localization\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:razorpay_flutter] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\razorpay_flutter\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:package_info_plus] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\video_player_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\235c49871a5ca2965df334b55abbfde7\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:2:1-66:12
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\25a8a9109aa3072267dbbf57afa01c36\transformed\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\cd60a7bcf757c601393dc5b9efcb8ed5\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\indian 5\.gradle\caches\transforms-3\29c1f35df6a8f9bb157c4f2e0d71a5ff\transformed\webkit-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\592a3f937360eeaea6b709c5ff2b8cbd\transformed\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\59ff75e781061dd19ee183900103008f\transformed\jetified-exoplayer-hls-2.18.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\de69334056d9bebe2fc455a72de2e604\transformed\jetified-exoplayer-dash-2.18.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\b8465368e005bdabc202769ffed91456\transformed\jetified-exoplayer-smoothstreaming-2.18.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\d49ff5b223eefd24c4dec480e2db2dd6\transformed\jetified-exoplayer-core-2.18.5\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\5312eddeb12c358c6f91dc5b15463846\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\226a9007de2b1349e2cab54dbd14ad0b\transformed\jetified-play-services-measurement-sdk-21.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\indian 5\.gradle\caches\transforms-3\047a930420dc641c73524a825e74aac3\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\371c14aa920a8c676e4421195425d8ba\transformed\jetified-play-services-fido-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\indian 5\.gradle\caches\transforms-3\b973d3b56f62301c856a82517cef5342\transformed\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\8e4207a609192a9024234dd8068c55e0\transformed\jetified-play-services-identity-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\a44251de631e605548d6c39396d61cc3\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\9511ad3f453401fcba9fc420a11aa801\transformed\jetified-firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\92d28d19e74f091cef5fb7cafef7789b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\d6c91e3b5a99a1d78f895a4e281db8f2\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\76e2d75fb632df5cd43dc610f13b267c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\a9363052521cf15d9f30760b034fb3fe\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\be4260fbf4d2247fc2a2082f8d15653f\transformed\jetified-play-services-measurement-base-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\1e8bd77dc638d3668b6ef31a84d23406\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4bcc096e01ac44080d78a8667657bd7b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\f1a5acd409ccd88cc0db76b3edef809c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\37de074841eec2a301339bcd0ea5b78a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9c37483f662a3c985ac0727f2f25a81f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\63e3a0a4ced84aa7f04077fd907c8ac0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\indian 5\.gradle\caches\transforms-3\060d3ab0f219b7bdf3c6074aca40f9f2\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\indian 5\.gradle\caches\transforms-3\ac0acfffd8486a4381cda77d3bf088f6\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\694ffc34bf9fa108491588c5dd7a2836\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4ce462190e70f538b65925e05bc6a5fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\2bc22294f6028f1aea34574c8bdaaeef\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\indian 5\.gradle\caches\transforms-3\d302840c612a630458272864de853c8e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c352b41c714aa5c60de1bbcbd735235b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6d7b01e75b8e5e2e65b914919684a45f\transformed\jetified-exoplayer-datasource-2.18.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\e9919cc32d1fe33b4505661c3f109ef1\transformed\jetified-exoplayer-extractor-2.18.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\8b2572e1129cf33705e4bdb37379d070\transformed\jetified-exoplayer-decoder-2.18.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\294d1eff7d88a30989962fb36605b23e\transformed\jetified-exoplayer-database-2.18.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6aa7fead354e1b8320bd8ab5241228b9\transformed\jetified-exoplayer-common-2.18.5\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\884a7e4a2a0409d403bc1a309d483d93\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\d40fe51c4cf8e422ff3104ca9d87d469\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\352e14778917368b1803a7d8d2a59d6a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\231f38ebb26cae533c5b6c257e64c174\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\bc2c21666cf6d440069384930025d768\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\334008c51e66741eef9d2f395f1ad927\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4279b6af54ff84f41584d298e8ca44c6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\7b0ee0c4efef22f973f7ede6341a4c82\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\indian 5\.gradle\caches\transforms-3\95068ff6e742302ba6093ec0b3c09fb0\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\8ad76617c08294b715ad6718695569f4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+	package
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:flutter_file_downloader] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_file_downloader\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:flutter_file_downloader] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_file_downloader\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:8:5-67
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-80
+MERGED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\a9363052521cf15d9f30760b034fb3fe\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\a9363052521cf15d9f30760b034fb3fe\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CAMERA
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:17:5-68
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:18:5-66
+MERGED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-66
+MERGED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:18:22-63
+uses-sdk
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_share] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_share\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_share] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_share\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:smart_auth] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\smart_auth\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:smart_auth] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\smart_auth\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_file_downloader] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_file_downloader\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_file_downloader] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_file_downloader\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\wakelock\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\wakelock\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\webview_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\webview_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_localization] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_localization\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_localization] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_localization\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:razorpay_flutter] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\razorpay_flutter\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:razorpay_flutter] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\razorpay_flutter\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\video_player_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\video_player_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\235c49871a5ca2965df334b55abbfde7\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\235c49871a5ca2965df334b55abbfde7\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:6:5-44
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\25a8a9109aa3072267dbbf57afa01c36\transformed\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\25a8a9109aa3072267dbbf57afa01c36\transformed\jetified-firebase-analytics-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\cd60a7bcf757c601393dc5b9efcb8ed5\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\cd60a7bcf757c601393dc5b9efcb8ed5\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\indian 5\.gradle\caches\transforms-3\29c1f35df6a8f9bb157c4f2e0d71a5ff\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\indian 5\.gradle\caches\transforms-3\29c1f35df6a8f9bb157c4f2e0d71a5ff\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\592a3f937360eeaea6b709c5ff2b8cbd\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\592a3f937360eeaea6b709c5ff2b8cbd\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\59ff75e781061dd19ee183900103008f\transformed\jetified-exoplayer-hls-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\59ff75e781061dd19ee183900103008f\transformed\jetified-exoplayer-hls-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\de69334056d9bebe2fc455a72de2e604\transformed\jetified-exoplayer-dash-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\de69334056d9bebe2fc455a72de2e604\transformed\jetified-exoplayer-dash-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\b8465368e005bdabc202769ffed91456\transformed\jetified-exoplayer-smoothstreaming-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\b8465368e005bdabc202769ffed91456\transformed\jetified-exoplayer-smoothstreaming-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\d49ff5b223eefd24c4dec480e2db2dd6\transformed\jetified-exoplayer-core-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\d49ff5b223eefd24c4dec480e2db2dd6\transformed\jetified-exoplayer-core-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\5312eddeb12c358c6f91dc5b15463846\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\5312eddeb12c358c6f91dc5b15463846\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\226a9007de2b1349e2cab54dbd14ad0b\transformed\jetified-play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\226a9007de2b1349e2cab54dbd14ad0b\transformed\jetified-play-services-measurement-sdk-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\indian 5\.gradle\caches\transforms-3\047a930420dc641c73524a825e74aac3\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\indian 5\.gradle\caches\transforms-3\047a930420dc641c73524a825e74aac3\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\371c14aa920a8c676e4421195425d8ba\transformed\jetified-play-services-fido-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\371c14aa920a8c676e4421195425d8ba\transformed\jetified-play-services-fido-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\indian 5\.gradle\caches\transforms-3\b973d3b56f62301c856a82517cef5342\transformed\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\indian 5\.gradle\caches\transforms-3\b973d3b56f62301c856a82517cef5342\transformed\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\8e4207a609192a9024234dd8068c55e0\transformed\jetified-play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\8e4207a609192a9024234dd8068c55e0\transformed\jetified-play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\a44251de631e605548d6c39396d61cc3\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\a44251de631e605548d6c39396d61cc3\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\9511ad3f453401fcba9fc420a11aa801\transformed\jetified-firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\9511ad3f453401fcba9fc420a11aa801\transformed\jetified-firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\92d28d19e74f091cef5fb7cafef7789b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\92d28d19e74f091cef5fb7cafef7789b\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\d6c91e3b5a99a1d78f895a4e281db8f2\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\indian 5\.gradle\caches\transforms-3\d6c91e3b5a99a1d78f895a4e281db8f2\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\76e2d75fb632df5cd43dc610f13b267c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\76e2d75fb632df5cd43dc610f13b267c\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\a9363052521cf15d9f30760b034fb3fe\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\a9363052521cf15d9f30760b034fb3fe\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\be4260fbf4d2247fc2a2082f8d15653f\transformed\jetified-play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\be4260fbf4d2247fc2a2082f8d15653f\transformed\jetified-play-services-measurement-base-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\1e8bd77dc638d3668b6ef31a84d23406\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\1e8bd77dc638d3668b6ef31a84d23406\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4bcc096e01ac44080d78a8667657bd7b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4bcc096e01ac44080d78a8667657bd7b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\f1a5acd409ccd88cc0db76b3edef809c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\f1a5acd409ccd88cc0db76b3edef809c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\37de074841eec2a301339bcd0ea5b78a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\37de074841eec2a301339bcd0ea5b78a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9c37483f662a3c985ac0727f2f25a81f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9c37483f662a3c985ac0727f2f25a81f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\63e3a0a4ced84aa7f04077fd907c8ac0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\63e3a0a4ced84aa7f04077fd907c8ac0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\indian 5\.gradle\caches\transforms-3\060d3ab0f219b7bdf3c6074aca40f9f2\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\indian 5\.gradle\caches\transforms-3\060d3ab0f219b7bdf3c6074aca40f9f2\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\indian 5\.gradle\caches\transforms-3\ac0acfffd8486a4381cda77d3bf088f6\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\indian 5\.gradle\caches\transforms-3\ac0acfffd8486a4381cda77d3bf088f6\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\694ffc34bf9fa108491588c5dd7a2836\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\694ffc34bf9fa108491588c5dd7a2836\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4ce462190e70f538b65925e05bc6a5fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4ce462190e70f538b65925e05bc6a5fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\2bc22294f6028f1aea34574c8bdaaeef\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\2bc22294f6028f1aea34574c8bdaaeef\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\indian 5\.gradle\caches\transforms-3\d302840c612a630458272864de853c8e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\indian 5\.gradle\caches\transforms-3\d302840c612a630458272864de853c8e\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c352b41c714aa5c60de1bbcbd735235b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c352b41c714aa5c60de1bbcbd735235b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6d7b01e75b8e5e2e65b914919684a45f\transformed\jetified-exoplayer-datasource-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6d7b01e75b8e5e2e65b914919684a45f\transformed\jetified-exoplayer-datasource-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\e9919cc32d1fe33b4505661c3f109ef1\transformed\jetified-exoplayer-extractor-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\e9919cc32d1fe33b4505661c3f109ef1\transformed\jetified-exoplayer-extractor-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\8b2572e1129cf33705e4bdb37379d070\transformed\jetified-exoplayer-decoder-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\8b2572e1129cf33705e4bdb37379d070\transformed\jetified-exoplayer-decoder-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\294d1eff7d88a30989962fb36605b23e\transformed\jetified-exoplayer-database-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\294d1eff7d88a30989962fb36605b23e\transformed\jetified-exoplayer-database-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6aa7fead354e1b8320bd8ab5241228b9\transformed\jetified-exoplayer-common-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6aa7fead354e1b8320bd8ab5241228b9\transformed\jetified-exoplayer-common-2.18.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\884a7e4a2a0409d403bc1a309d483d93\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\884a7e4a2a0409d403bc1a309d483d93\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\d40fe51c4cf8e422ff3104ca9d87d469\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\d40fe51c4cf8e422ff3104ca9d87d469\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\352e14778917368b1803a7d8d2a59d6a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\352e14778917368b1803a7d8d2a59d6a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\231f38ebb26cae533c5b6c257e64c174\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\231f38ebb26cae533c5b6c257e64c174\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\bc2c21666cf6d440069384930025d768\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\bc2c21666cf6d440069384930025d768\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\334008c51e66741eef9d2f395f1ad927\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\334008c51e66741eef9d2f395f1ad927\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4279b6af54ff84f41584d298e8ca44c6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\4279b6af54ff84f41584d298e8ca44c6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\7b0ee0c4efef22f973f7ede6341a4c82\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\7b0ee0c4efef22f973f7ede6341a4c82\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\indian 5\.gradle\caches\transforms-3\95068ff6e742302ba6093ec0b3c09fb0\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\indian 5\.gradle\caches\transforms-3\95068ff6e742302ba6093ec0b3c09fb0\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\8ad76617c08294b715ad6718695569f4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\8ad76617c08294b715ad6718695569f4\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml
+activity#com.naukri.user.MainActivity
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:33:9-54:20
+	android:launchMode
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:37:13-43
+	android:hardwareAccelerated
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:40:13-47
+	android:windowSoftInputMode
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:41:13-55
+	android:exported
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:35:13-36
+	android:configChanges
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:39:13-163
+	android:theme
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:38:13-47
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:34:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:46:13-49:17
+	android:resource
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:48:15-52
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:47:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:52:27-74
+meta-data#flutterEmbedding
+ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\android\app\src\main\AndroidManifest.xml:59:13-44
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\d49ff5b223eefd24c4dec480e2db2dd6\transformed\jetified-exoplayer-core-2.18.5\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\d49ff5b223eefd24c4dec480e2db2dd6\transformed\jetified-exoplayer-core-2.18.5\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\c227d411eaaed0d1841aba217de113ac\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6aa7fead354e1b8320bd8ab5241228b9\transformed\jetified-exoplayer-common-2.18.5\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] C:\Users\indian 5\.gradle\caches\transforms-3\6aa7fead354e1b8320bd8ab5241228b9\transformed\jetified-exoplayer-common-2.18.5\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:25:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:22-74
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-19:72
+	android:exported
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+	android:permission
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-26:19
+	android:exported
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-25:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-78
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-41:19
+MERGED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:37:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:39:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-47:38
+	android:authorities
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-88
+	android:exported
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from [:firebase_messaging] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_core] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:12:17-124
+queries
+ADDED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-17:15
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:10:5-39:15
+MERGED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:10:5-39:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-16:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-72
+	android:name
+		ADDED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:13:21-69
+data
+ADDED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-44
+	android:mimeType
+		ADDED from [:file_picker] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\file_picker\intermediates\merged_manifest\release\AndroidManifest.xml:15:19-41
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:75
+	android:resource
+		ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-72
+	android:name
+		ADDED from [:image_picker_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-27:20
+	android:exported
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:22:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:23:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:23:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:24:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:25:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:25:25-79
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] D:\SurendraCollection\Noukri_junction_18_may\Noukri_junction\AlphaJobPortal3Feb\AlphaJobPortal3Feb\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\indian 5\.gradle\caches\transforms-3\802b94aa5357f7acbd8894ce6f13bf4b\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+intent#action:name:android.intent.action.VIEW+data:mimeType:*/*+data:scheme:*
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:11:9-17:18
+action#android.intent.action.VIEW
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:12:13-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:12:21-62
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:host:pay+data:mimeType:*/*+data:scheme:upi
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:18:9-27:18
+category#android.intent.category.BROWSABLE
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:21:23-71
+intent#action:name:android.intent.action.MAIN
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:28:9-30:18
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:31:9-35:18
+action#android.intent.action.SEND
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:32:21-62
+intent#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:36:9-38:18
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:37:13-61
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:37:21-58
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:42:9-49:20
+	android:exported
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:44:13-36
+	tools:ignore
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:43:13-57
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:46:13-48:29
+activity#com.razorpay.CheckoutActivity
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:51:9-59:20
+	android:exported
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:54:13-36
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:53:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:52:13-57
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:56:13-58:29
+meta-data#com.razorpay.plugin.googlepay_all
+ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:61:9-63:58
+	android:value
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:63:13-55
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.31] C:\Users\indian 5\.gradle\caches\transforms-3\3be34027250bf999b43f2d8b79dc48f5\transformed\jetified-checkout-1.6.31\AndroidManifest.xml:62:13-61
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:28:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\17379c46cf2aec3b7de6b2bdf41b19e1\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] C:\Users\indian 5\.gradle\caches\transforms-3\c4804e5aec57915674653c3ed919f1e9\transformed\jetified-firebase-messaging-23.1.1\AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\indian 5\.gradle\caches\transforms-3\2b0e6232e6d2cf1978cf87a465c599b1\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\397a00d934d6d2f8a8409a043be1c355\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\indian 5\.gradle\caches\transforms-3\039455ba8118c7e18e2b026c96b96b9c\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\005bf873815933d1f25d1812a26213e1\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\e0948b89478aab89458b974f1c87f1a6\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\41159268af910d206da1a8cfa9b8d998\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\indian 5\.gradle\caches\transforms-3\e7a571d9d44f79b008ff0a6966d379a9\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.4.0] C:\Users\indian 5\.gradle\caches\transforms-3\bd44f41434b4e67e218c1aceb06df86b\transformed\jetified-play-services-auth-20.4.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\5a31a7b1ac06ee4655cc93b569cf8e6a\transformed\jetified-play-services-measurement-impl-21.2.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.2.0] C:\Users\indian 5\.gradle\caches\transforms-3\2df30e682bdc6c11836c795a6d4a8790\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\indian 5\.gradle\caches\transforms-3\9bf72e505bca904588dd50ef02424e32\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\indian 5\.gradle\caches\transforms-3\0ae0c1de0c960214ce5b747cefc72e30\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\indian 5\.gradle\caches\transforms-3\397bb2f5c002777101748effd20ce56c\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58

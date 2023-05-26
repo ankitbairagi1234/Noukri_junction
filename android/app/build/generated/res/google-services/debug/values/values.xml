@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">444281319231-uluj26onc4hd2g3fngcu5tdtd5kmsk0l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">444281319231</string>
+    <string name="google_api_key" translatable="false">AIzaSyBi5ppPhqn97CrhqtvsgUWUe0sW9Dr_MsU</string>
+    <string name="google_app_id" translatable="false">1:444281319231:android:7445c6d05de334d790ad8a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBi5ppPhqn97CrhqtvsgUWUe0sW9Dr_MsU</string>
+    <string name="google_storage_bucket" translatable="false">alpha-job-portal-a54d7.appspot.com</string>
+    <string name="project_id" translatable="false">alpha-job-portal-a54d7</string>
+</resources>

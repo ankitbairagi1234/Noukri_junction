@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444281319231",
+    "project_id": "alpha-job-portal-a54d7",
+    "storage_bucket": "alpha-job-portal-a54d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444281319231:android:7445c6d05de334d790ad8a",
+        "android_client_info": {
+          "package_name": "com.naukri.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444281319231-3rji5jqovb1j1f31tfd505c85pfd1bpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naukri.user",
+            "certificate_hash": "01296d8e2cda20f49bfd4827676906da949be6f3"
+          }
+        },
+        {
+          "client_id": "444281319231-uluj26onc4hd2g3fngcu5tdtd5kmsk0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5ppPhqn97CrhqtvsgUWUe0sW9Dr_MsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444281319231-uluj26onc4hd2g3fngcu5tdtd5kmsk0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
